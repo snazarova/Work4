@@ -7,7 +7,7 @@ public class Main {
          long d = 1000000L;
          float e = 2.457564F;
          double h = 1.87665554443;
-         boolean r = a > 100;
+         boolean ring = a > 100;
 
         System.out.println("Значение переменной a с типом int равно " + a);
         System.out.println("Значение переменной b стипом byte равно " + b);
